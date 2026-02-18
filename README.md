@@ -51,13 +51,11 @@ Me motiva:
 
 ## 📂 Proyectos destacados
 
-### 🃏 Juego "7 y Medio" en C
-Aplicación desarrollada en C que simula el juego de cartas 7 y medio, con control de flujo y gestión de lógica del juego.  
-🔗 [Ver proyecto](https://github.com/ibtBou)
+
 
 ### 🏥 Sistema de gestión de pacientes en C++
 Sistema de gestión con validación de datos, persistencia binaria y estadísticas.  
-🔗 [Ver proyecto]([https://github.com/ibtBou](https://github.com/ibtBou/practicas/blob/main/pacientes.cc))
+🔗 [Ver proyecto]([https://github.com/ibtBou](https://github.com/ibtBou/practicas/blob/main/pacientes.cc)
 
 ---
 
