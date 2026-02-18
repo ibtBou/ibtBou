@@ -51,11 +51,40 @@ Me motiva:
 
 ## 📂 Proyectos destacados
 
+### 🏥 Sistema de Gestión de Farmacia (Java + MySQL)
+Aplicación de escritorio desarrollada en Java con interfaz gráfica (Swing) y conexión a base de datos MySQL.
+
+🔹 Funcionalidades:
+- Gestión de clientes
+- Gestión de empleados
+- Gestión de productos
+- Sistema de login
+- Operaciones CRUD con base de datos
+
+🔹 Tecnologías utilizadas:
+- Java
+- MySQL
+- JDBC
+- NetBeans
+
+🔗 [Ver proyecto:]( https://github.com/ibtBou/Farmacia-Java)
 
 
 ### 🏥 Sistema de gestión de pacientes en C++
 Sistema de gestión con validación de datos, persistencia binaria y estadísticas.  
-🔗 [Ver proyecto]([https://github.com/ibtBou](https://github.com/ibtBou/practicas/blob/main/pacientes.cc)
+🔗 [Ver proyecto](https://github.com/ibtBou/practicas/blob/main/pacientes.cc)
+
+### 📚 Sistema de Gestión de Biblioteca (C)
+Programa desarrollado en C que permite gestionar libros y usuarios mediante estructuras de datos y manejo de archivos.
+
+🔹 Funcionalidades:
+- Registro de libros
+- Búsqueda
+- Modificación
+- Eliminación
+- Gestión mediante archivos
+🔗 [Ver proyecto](https://github.com/ibtBou/biblioteca--C)
+
 
 ---
 
