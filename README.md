@@ -101,5 +101,5 @@ Programa desarrollado en C que permite gestionar libros y usuarios mediante estr
 ##  Contacto
 
 📧 Email: (ibtihallihbila@gmail.com)  
-💼 LinkedIn: ([pon aquí tu perfil](https://www.linkedin.com/in/ibtihal-bouchikhi-el-benaissati-5381291aa/))  
+💼 LinkedIn:(https://www.linkedin.com/in/ibtihal-bouchikhi-el-benaissati-5381291aa/)
 🐙 GitHub: https://github.com/ibtBou
