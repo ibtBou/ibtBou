@@ -72,6 +72,7 @@ Aplicación de escritorio desarrollada en Java con interfaz gráfica (Swing) y c
 
 ### 🏥 Sistema de gestión de pacientes en C++
 Sistema de gestión con validación de datos, persistencia binaria y estadísticas.  
+
 🔗 [Ver proyecto](https://github.com/ibtBou/practicas/blob/main/pacientes.cc)
 
 ### 📚 Sistema de Gestión de Biblioteca (C)
@@ -83,6 +84,7 @@ Programa desarrollado en C que permite gestionar libros y usuarios mediante estr
 - Modificación
 - Eliminación
 - Gestión mediante archivos
+
 🔗 [Ver proyecto](https://github.com/ibtBou/biblioteca--C)
 
 
