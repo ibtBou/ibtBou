@@ -57,7 +57,7 @@ Aplicación desarrollada en C que simula el juego de cartas 7 y medio, con contr
 
 ### 🏥 Sistema de gestión de pacientes en C++
 Sistema de gestión con validación de datos, persistencia binaria y estadísticas.  
-🔗 [Ver proyecto](https://github.com/ibtBou)
+🔗 [Ver proyecto]([https://github.com/ibtBou](https://github.com/ibtBou/practicas/blob/main/pacientes.cc))
 
 ---
 
